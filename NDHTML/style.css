@@ -1,9 +1,17 @@
-
+body {
+  margin: 0;
+  padding: 0;
+}
 div p{
   border: inherit;
   margin: inherit;
   color: crimson;
 }
+video{
+  flex: auto;
+  margin-left: 20px;
+}
+
   h1{
     color: blue;
     background-color: yellow;
@@ -11,8 +19,7 @@ div p{
     text-decoration: underline;
 font-family: monospace;
 text-align: center;
-
-  }
+}
   p.freshwater{
     color: red;
   }
