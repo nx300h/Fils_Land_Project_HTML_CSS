@@ -1,0 +1,85 @@
+
+div p{
+  border: inherit;
+  margin: inherit;
+  color: crimson;
+}
+  h1{
+    color: blue;
+    background-color: yellow;
+    font-size: 25px;
+    text-decoration: underline;
+font-family: monospace;
+text-align: center;
+
+  }
+  p.freshwater{
+    color: red;
+  }
+  p{
+    color: grey;
+    font-size: 20px;
+    font-family: cursive;
+  }
+  p.right{
+    text-align: right;
+    color: blue;
+  }
+ul{
+  border-width: 5px;
+  border-style: dashed solid;
+  border-color: purple;
+}
+li{
+  list-style: numbers;
+  text-shadow: 1px 1px grey;
+}
+h3{
+  color: orange
+  text-decoration: underline;
+  font-family: cursive;
+  text-align: center;
+  background-color: lightblue;
+}
+h2{
+  color: green;
+  text-align: center;
+  font-family: fantasy;
+}
+.saltwater{
+  color: green;
+}
+.about{
+  color: crimson;
+}
+.about.us{
+color: red;
+border: 1px dashed red;
+}
+.quality{
+  color: purple;
+}
+#Fish{
+  background-color: lightgray;
+  padding: 20px
+}
+p.age{
+  text-align: left;
+  color: inherit;
+}
+a[href$=".com"]{
+color: orange;
+background: blue;
+border: 2px solid pink
+}
+marquee{
+  font-size: 20px;
+  font-family: monospace;
+  color: blue;
+}
+blockquote{
+  font-size: 30px;
+  font-family: fantasy;
+  text-decoration: underline;
+  color: brown;
+}
